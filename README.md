@@ -27,7 +27,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas en tu
 Sigue estos pasos para configurar y ejecutar el proyecto localmente:
 ```bash
 
-git clone https://github.com/tu-usuario/ionic-firebase-chat.git
+git clone https://github.com/JosephYM07/Chat_Ionic.git
 cd ionic-firebase-chat
 
 ```
